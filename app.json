@@ -4,7 +4,7 @@
   "description": "The ultimate tool to automate telegram message forwarding. To learn more visit https://github.com/aahnik/tgcf/wiki/Deploy-to-Heroku",
   "keywords": ["telegram", "forwarding", "automation"],
   "website": "https://aahnik.dev",
-  "repository": "https://github.com/aahnik/tgcf",
+  "repository": "https://github.com/Charset404/tgcf",
   "logo": "https://user-images.githubusercontent.com/66209958/115183360-3fa4d500-a0f9-11eb-9c0f-c5ed03a9ae17.png",
   "env": {
     "API_ID": {
